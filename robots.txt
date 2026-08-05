@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-jo1clj.tidytile.com/sitemap.xml
